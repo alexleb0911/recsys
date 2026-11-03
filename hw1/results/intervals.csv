@@ -1,0 +1,3 @@
+comparison,delta,CI_low,CI_high
+FM metadata minus IDs (same settings),-0.00802361417789715,-0.011728901727180038,-0.004130867290978956
+Custom minus binary iALS (same settings),0.0039082610080187,-0.0006535523305864127,0.008793673132025772
